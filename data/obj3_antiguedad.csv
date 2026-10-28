@@ -1,0 +1,6 @@
+codigo,producto,stock,costo_unitario,ultima_salida,dias_sin_mov,valor,clase_abc
+CON-001,"Cemento Sol tipo I bolsa 42,5 kg",2400,31,2026-09-30,27,74400,A
+CON-002,Malla raschel verde rollo,85,210,2026-06-22,127,17850,A
+CON-003,Cinta malla para drywall,280,12,2026-09-05,52,3360,C
+CON-004,Tanque de agua 1100 L,40,420,2026-07-07,112,16800,B
+CON-005,Cordón vulcanizado 3x14 rollo,38,380,2026-06-07,142,14440,C

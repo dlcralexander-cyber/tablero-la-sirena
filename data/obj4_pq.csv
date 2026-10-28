@@ -1,0 +1,31 @@
+n,producto,codigo,familia,consumo_anual,pct,pct_acum,clase_pq,stock,costo_unitario,valor_stock,situacion,riesgo_dano,tipo_carga,zona
+1,"Cemento Sol tipo I bolsa 42,5 kg",CON-001,Construcción,18000,0.142,0.142,A,2400,31.0,74400,Piso sin código,Alto,Pesado paletizado,Z7
+2,"Codo PVC 1/2""",GAS-003,Gasfitería,12000,0.095,0.236,A,1500,1.2,1800,Cajas mezcladas en posición,Medio,Pequeño / caja,Z3
+3,Pintura spray ABRO colores varios,PIN-004,Pinturas,9600,0.076,0.312,A,960,9.5,9120,Rótulo manuscrito por descripción,Medio,Líquido / químico,Z6
+4,Lija de agua N.° 100,FER-006,Ferretería,9000,0.071,0.383,A,900,1.5,1350,Cajas mezcladas en posición,Medio,Pequeño / caja,Z3
+5,Pilas Duracell AA x2,ELE-005,Eléctricos,8000,0.063,0.446,A,820,7.5,6150,Rótulo por marca,Bajo,Pequeño / caja,Z3
+6,Cinta aislante 3M,ELE-008,Eléctricos,7000,0.055,0.501,A,650,4.5,2925,Código 6 dígitos,Bajo,Pequeño / caja,Z3
+7,"Tubo PVC 1/2"" x 5 m",GAS-002,Gasfitería,6500,0.051,0.553,A,620,9.0,5580,Código 6 dígitos,Bajo,Largo,Z9
+8,Interruptor simple Legrand,ELE-001,Eléctricos,6000,0.047,0.6,A,540,14.0,7560,Rótulo por marca,Bajo,Pequeño / caja,Z3
+9,Tomacorriente doble Bticino,ELE-002,Eléctricos,5400,0.043,0.642,A,610,18.0,10980,Rótulo por marca,Bajo,Pequeño / caja,Z3
+10,Pintura látex Maestro galón,PIN-002,Pinturas,5200,0.041,0.683,A,520,48.0,24960,Piso bajo rack sin código,Alto,Líquido / químico,Z6
+11,Foco LED 12 W,ELE-007,Eléctricos,5000,0.039,0.723,A,460,8.0,3680,Código 6 dígitos,Bajo,Pequeño / caja,Z3
+12,Pintura esmalte Maestro galón blanco,PIN-001,Pinturas,4800,0.038,0.761,A,410,62.0,25420,Código 6 dígitos,Bajo,Líquido / químico,Z6
+13,"Disco de corte 7""",FER-005,Ferretería,4500,0.035,0.796,A,420,9.0,3780,Código 6 dígitos,Bajo,Pequeño / caja,Z3
+14,Guantes de cuero (par),SEG-001,Seguridad,3600,0.028,0.825,B,330,11.0,3630,Código 6 dígitos,Bajo,Pequeño / caja,Z4
+15,Cinta malla para drywall,CON-003,Construcción,3000,0.024,0.848,B,280,12.0,3360,Código 6 dígitos,Bajo,Pequeño / caja,Z4
+16,"Válvula esférica 1/2"" bronce",GAS-001,Gasfitería,2600,0.02,0.869,B,240,28.0,6720,Código 6 dígitos,Bajo,Pequeño / caja,Z4
+17,Placa Bticino Matix,ELE-003,Eléctricos,2400,0.019,0.888,B,230,22.0,5060,Rótulo por marca,Bajo,Pequeño / caja,Z4
+18,"Brocha 3""",FER-007,Ferretería,2400,0.019,0.907,B,230,6.0,1380,Código 6 dígitos,Bajo,Pequeño / caja,Z4
+19,Silicona transparente 280 ml,FER-008,Ferretería,2200,0.017,0.924,B,210,14.0,2940,Código 6 dígitos,Bajo,Líquido / químico,Z6
+20,Esmalte X-Gloss galón,PIN-003,Pinturas,1900,0.015,0.939,B,160,70.0,11200,Código 6 dígitos,Bajo,Líquido / químico,Z6
+21,Cable THW 14 AWG rollo 100 m,ELE-004,Eléctricos,1500,0.012,0.951,C,140,165.0,23100,Rótulo por marca,Bajo,Pequeño / caja,Z5
+22,Llave termomagnética 2x20A Bticino,ELE-006,Eléctricos,1300,0.01,0.961,C,120,48.0,5760,Código 6 dígitos,Bajo,Pequeño / caja,Z5
+23,"Clavo 2 1/2"" caja 25 kg",FER-003,Ferretería,1200,0.009,0.97,C,110,95.0,10450,"Piso, cajas abiertas",Alto,Pesado paletizado,Z7
+24,Casco de seguridad,SEG-002,Seguridad,1100,0.009,0.979,C,100,25.0,2500,Código 6 dígitos,Bajo,Pequeño / caja,Z5
+25,Malla raschel verde rollo,CON-002,Construcción,900,0.007,0.986,C,85,210.0,17850,"Ubicación marcada con ""?""",Medio,Voluminoso,Z8
+26,Cordón vulcanizado 3x14 rollo,CON-005,Construcción,420,0.003,0.989,C,38,380.0,14440,Piso sin código,Alto,Voluminoso,Z8
+27,Escalera tijera aluminio 6 pasos,FER-001,Ferretería,420,0.003,0.993,C,46,260.0,11960,Piso en pasillo sin código,Alto,Voluminoso,Z8
+28,Tanque de agua 1100 L,CON-004,Construcción,380,0.003,0.996,C,40,420.0,16800,Piso sin código,Alto,Voluminoso,Z8
+29,Carretilla buggy,FER-004,Ferretería,300,0.002,0.998,C,30,185.0,5550,Piso sin código,Alto,Voluminoso,Z8
+30,Escalera tijera aluminio 8 pasos,FER-002,Ferretería,240,0.002,1.0,C,28,340.0,9520,Piso en pasillo sin código,Alto,Voluminoso,Z8

@@ -1,0 +1,16 @@
+n,dimension,criterio,observacion,estado,puntaje
+1,Codificación,Cada posición de rack tiene un código único y visible,"Letreros amarillos en algunos parantes; sin código por nivel ni posición (fotos 1, 3, 4)",Parcial,1
+2,Codificación,Las etiquetas de ubicación tienen código de barras,No se observan etiquetas con código de barras,No cumple,0
+3,Codificación,Las zonas de piso están demarcadas y codificadas,"Bobinas, tubos y cajas en piso sin demarcación ni código (foto 2)",No cumple,0
+4,Codificación,Señalética identifica pasillos y zonas,"Señalización parcial, sin nomenclatura uniforme",Parcial,1
+5,Segregación,Producto vencido en zona exclusiva y bloqueado,Letrero 'Almacén de vencido' dentro de un rack general (foto 4),No cumple,0
+6,Orden,Una posición contiene un solo SKU,"Posiciones con productos mezclados y cajas abiertas (fotos 3, 4)",No cumple,0
+7,Orden,Pasillos libres de mercadería y residuos,"Cajas, pallets y bidones obstruyen pasillos (fotos 1, 3)",No cumple,0
+8,Orden,No hay producto en piso sin ubicación asignada,"Bidones, cajas y bobinas en piso sin ubicación (fotos 1, 2)",No cumple,0
+9,Orden,Cajas abiertas consolidadas y rotuladas,"Cajas abiertas y unidades sueltas (fotos 3, 4)",No cumple,0
+10,Orden,Áreas libres de residuos de embalaje,"Bolsas, cartón y zunchos en piso (fotos 1, 2, 3)",Parcial,1
+11,Orden,Pasillos y zonas demarcados en piso,"Líneas amarillas solo en algunos pasillos (fotos 3, 4)",Parcial,1
+12,Seguridad,Carga estable y sin sobresalir del rack,"Bultos que sobresalen en niveles altos (fotos 1, 4)",Parcial,1
+13,Control,Existe programa de conteos cíclicos,No existen conteos cíclicos (causa del objetivo),No cumple,0
+14,Cultura,Comunicación visual de calidad,Banner 'Haz las cosas bien a la primera' (foto 1),Cumple,2
+15,Infraestructura,"Racks, iluminación y altura adecuados","Racks en buen estado, buena iluminación (fotos 1–4)",Cumple,2

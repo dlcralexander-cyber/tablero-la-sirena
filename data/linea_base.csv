@@ -1,0 +1,14 @@
+concepto,valor
+inventario_total,2168000.0
+vencido,74650.0
+danado,51280.0
+sin_rotacion,265000.0
+costo_ventas_anual,9200000.0
+inventario_promedio,1320000.0
+exactitud_pronostico,0.8398306593922518
+cumplimiento_senalizacion,0.86
+activos_criticos,0.1377049180327869
+trabajadores_almacen,18.0
+horas_disponibles_mes,3744.0
+horas_productivas_mes,3340.0
+meta_vejez,0.05

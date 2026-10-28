@@ -1,0 +1,52 @@
+lote,familia,producto,fecha_vencimiento,dias_para_vencer,unidades,valor_soles,ubicacion
+CEM-0001,Cemento,Cemento Andino Tipo I 42.5 kg,2026-11-01,5,341,7975.23,B-01-07-3
+CEM-0002,Cemento,Cemento Andino Tipo I 42.5 kg,2026-11-28,32,68,1906.84,A-02-04-2
+CEM-0003,Cemento,Cemento Andino Tipo I 42.5 kg,2026-11-03,7,116,3472.16,C-02-02-2
+CEM-0004,Cemento,Cemento Andino Tipo I 42.5 kg,2026-12-29,63,36,1077.8,B-03-05-1
+CEM-0005,Cemento,Cemento Andino Tipo I 42.5 kg,2026-12-16,50,137,3603.97,C-02-10-2
+CEM-0006,Cemento,Cemento Sol Tipo I 42.5 kg,2026-12-23,57,250,6387.86,B-01-07-2
+CEM-0007,Cemento,Cemento Sol Tipo I 42.5 kg,2027-01-15,80,32,757.46,B-02-03-1
+CEM-0008,Cemento,Cemento Sol Tipo I 42.5 kg,2026-12-20,54,293,7003.29,B-03-11-1
+CEM-0009,Cemento,Cemento Sol Tipo I 42.5 kg,2026-11-19,23,350,11719.14,B-03-06-2
+PEG-0010,Pegamentos y fraguas,Pegamento cerámico 25 kg,2026-10-16,-11,365,8231.77,C-03-01-2
+PEG-0011,Pegamentos y fraguas,Pegamento cerámico 25 kg,2027-05-14,199,202,4357.57,A-03-08-1
+PEG-0012,Pegamentos y fraguas,Pegamento cerámico 25 kg,2027-08-12,289,357,7012.19,A-02-04-3
+PEG-0013,Pegamentos y fraguas,Pegamento cerámico 25 kg,2026-10-29,2,40,1013.98,C-03-08-3
+PEG-0014,Pegamentos y fraguas,Fragua blanca 1 kg,2026-10-26,-1,51,1315.92,B-01-04-1
+PEG-0015,Pegamentos y fraguas,Fragua blanca 1 kg,2027-09-20,328,318,6440.61,B-02-03-2
+PEG-0016,Pegamentos y fraguas,Fragua blanca 1 kg,2027-03-20,144,286,6222.37,B-03-02-2
+PEG-0017,Pegamentos y fraguas,Pegamento PVC 1/4 gal,2027-01-26,91,349,8461.2,A-03-03-3
+PEG-0018,Pegamentos y fraguas,Pegamento PVC 1/4 gal,2027-05-29,214,33,860.53,B-01-02-3
+PEG-0019,Pegamentos y fraguas,Pegamento PVC 1/4 gal,2026-12-25,59,144,2953.72,B-02-02-2
+PEG-0020,Pegamentos y fraguas,Pegamento PVC 1/4 gal,2027-09-16,324,397,7764.71,C-03-02-3
+PEG-0021,Pegamentos y fraguas,Pegamento PVC 1/4 gal,2027-08-27,304,196,5052.94,B-01-07-2
+PIN-0022,Pinturas,Pintura látex 4 L,2028-07-16,628,70,3046.57,A-03-08-1
+PIN-0023,Pinturas,Pintura látex 4 L,2027-01-31,96,170,7355.72,B-03-10-1
+PIN-0024,Pinturas,Pintura látex 4 L,2028-02-21,482,352,14731.76,C-03-02-3
+PIN-0025,Pinturas,Esmalte sintético galón,2028-07-31,643,351,17942.27,A-01-03-1
+PIN-0026,Pinturas,Esmalte sintético galón,2027-08-02,279,63,2817.0,A-03-01-1
+PIN-0027,Pinturas,Esmalte sintético galón,2028-09-23,697,385,17301.41,A-02-11-1
+PIN-0028,Pinturas,Esmalte sintético galón,2027-01-14,79,28,1275.67,B-01-10-3
+PIN-0029,Pinturas,Esmalte sintético galón,2028-03-13,503,394,19809.97,C-02-07-1
+PIN-0030,Pinturas,Pintura spray,2027-07-01,247,60,2336.92,B-03-09-1
+PIN-0031,Pinturas,Pintura spray,2027-12-18,417,359,14901.93,A-01-10-1
+PIN-0032,Pinturas,Pintura spray,2027-07-01,247,166,6285.8,B-02-04-3
+PIN-0033,Pinturas,Pintura spray,2027-03-17,141,177,7945.04,A-03-04-1
+SEL-0034,Selladores,Silicona acética 280 ml,2027-08-07,284,302,4220.77,C-01-08-3
+SEL-0035,Selladores,Silicona acética 280 ml,2027-08-09,286,229,3483.17,A-03-11-2
+SEL-0036,Selladores,Silicona acética 280 ml,2028-03-08,498,43,566.48,B-03-09-2
+SEL-0037,Selladores,Silicona acética 280 ml,2028-03-18,508,170,2173.37,C-02-12-1
+SEL-0038,Selladores,Silicona acética 280 ml,2027-11-19,388,177,2148.41,C-03-12-1
+SEL-0039,Selladores,Sellador acrílico 300 ml,2026-12-06,40,83,1180.65,C-01-01-3
+SEL-0040,Selladores,Sellador acrílico 300 ml,2027-04-06,161,246,3551.85,A-03-02-3
+SEL-0041,Selladores,Sellador acrílico 300 ml,2027-06-03,219,54,835.27,A-02-02-1
+SEL-0042,Selladores,Sellador acrílico 300 ml,2027-03-22,146,151,2121.77,B-03-01-3
+SEL-0043,Selladores,Sellador acrílico 300 ml,2026-10-27,0,58,793.21,C-03-01-2
+ADI-0044,Aditivos,Impermeabilizante 4 L,2027-09-01,309,127,4291.35,B-03-07-2
+ADI-0045,Aditivos,Impermeabilizante 4 L,2027-04-23,178,100,3580.74,C-02-03-2
+ADI-0046,Aditivos,Impermeabilizante 4 L,2027-07-22,268,334,12612.55,B-01-12-3
+ADI-0047,Aditivos,Impermeabilizante 4 L,2027-06-23,239,39,1739.21,C-01-09-2
+ADI-0048,Aditivos,Impermeabilizante 4 L,2027-10-09,347,317,12467.2,B-02-04-2
+ADI-0049,Aditivos,Acelerante de fragua 1 L,2027-01-20,85,221,6916.78,C-01-07-3
+ADI-0050,Aditivos,Acelerante de fragua 1 L,2027-01-18,83,278,8570.97,C-01-02-2
+ADI-0051,Aditivos,Acelerante de fragua 1 L,2026-12-19,53,174,6847.3,C-01-07-3

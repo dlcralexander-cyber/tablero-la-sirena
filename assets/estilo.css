@@ -1,0 +1,20 @@
+/* Estilos de la app Dash (Dash carga automáticamente la carpeta assets/) */
+body { margin: 0; background: #fcfcfb; color: #0b0b0b;
+       font-family: Inter, "Segoe UI", Arial, sans-serif; }
+.pagina { max-width: 1400px; margin: 0 auto; padding: 16px 24px 48px; }
+.cabecera { display: flex; justify-content: space-between; align-items: baseline;
+            flex-wrap: wrap; gap: 8px; padding: 8px 0 16px; }
+h1 { font-size: 34px; margin: 24px 0 4px; }
+h3 { margin: 28px 0 10px; }
+.sub, .nota { color: #52514e; font-size: 13px; margin: 0 0 16px; }
+.fila { display: grid; gap: 16px; margin: 12px 0; align-items: start; }
+.kpi { border: 1px solid #e6e5e1; border-radius: 10px; padding: 12px 14px; background: #fff; }
+.kpi-titulo { color: #52514e; font-size: 13px; }
+.kpi-valor { font-size: 30px; margin: 4px 0; }
+.kpi-nota { font-size: 12px; color: #52514e; }
+.decision { background: #e8f1fc; color: #184f95; border-radius: 8px; padding: 12px 14px; margin: 12px 0; }
+.vistas, .subtabs { margin-top: 8px; }
+@media (max-width: 900px) {
+  .fila { grid-template-columns: 1fr !important; }
+  .pagina { padding: 12px 16px 40px; }
+}
